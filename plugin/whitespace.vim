@@ -1,2 +1,2 @@
-let g:whitespace = 'tab'
-set tabstop = 4
+let g:whitespace='tab'
+set tabstop=4
