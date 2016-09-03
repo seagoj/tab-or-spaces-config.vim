@@ -1,1 +1,1 @@
-let g:tabOrSpaces="tab"
+let g:whitespace='tab'
